@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+double r=7.0; 
+printf("area of a circle %f",3.142*r*r);
+return 0;
+}
